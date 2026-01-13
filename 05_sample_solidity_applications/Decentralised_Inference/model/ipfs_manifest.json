@@ -1,0 +1,20 @@
+{
+  "cid": "Qme3DCaQatkF3SYrX9BvDHAzNzH78wkU9415K222u467R3",
+  "pinned_via": "pinata",
+  "artifact": "model.json",
+  "pinned_at_utc": "2026-01-10T15:41:15.144805+00:00",
+  "pinata_response": {
+    "IpfsHash": "Qme3DCaQatkF3SYrX9BvDHAzNzH78wkU9415K222u467R3",
+    "PinSize": 387,
+    "Timestamp": "2026-01-10T15:41:13.030Z",
+    "ID": "5013938a-993b-440f-88bf-6f9a3606c1fa",
+    "Name": "model.json",
+    "NumberOfFiles": 1,
+    "MimeType": "application/json",
+    "GroupId": null,
+    "Keyvalues": null
+  },
+  "gateway_urls": [
+    "https://gateway.pinata.cloud/ipfs/Qme3DCaQatkF3SYrX9BvDHAzNzH78wkU9415K222u467R3"
+  ]
+}
